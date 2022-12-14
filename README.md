@@ -61,11 +61,11 @@
 
 
 
-<h2>📊 Github Stats</h2>
+<h2 align='center'>📊 Github Stats</h2>
 <br/>
 
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Guru1926&show_icons=true&theme=dark" />
+  <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Guru1926&show_icons=true&theme=dark" /></p>
 
 </div>
  <br />
