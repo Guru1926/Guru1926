@@ -77,10 +77,18 @@
 
 </div>
  <br />
+ <br/>
+
 
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guru1926&theme=dark" alt=""/></p>
+<br/>
+<br/>
+
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Guru1926&theme=dark" alt=""/> </p>
+<br/>
+<br/>
+
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guru1926&theme=vue" alt="summarycard"/> </p>
 <hr />
 <h3 align="center">
